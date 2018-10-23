@@ -1,6 +1,3 @@
-
-
-
 // NO ARGUMENTS
 const name = "Andrew";
 
